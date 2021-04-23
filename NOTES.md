@@ -12,7 +12,7 @@
    - turinys turi buti centre
    - pagrindinis plotis turi buti fiksuotas
    - stiliu (CSS) atskirti nuo HTML
-- [ ] README.md 
+- [x] README.md 
    - skirta aprasyti kas, ka ir kodel daro
    - iterpti link i daroma dizaina
    - iterpti link, kur galima pamatyti koda
