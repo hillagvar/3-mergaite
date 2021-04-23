@@ -5,7 +5,7 @@
    - .gitignore
 - [x] atlikti dizano analize
 - [x] surasyti html
-- [ ] issikirpti img ir juos panaudoti
+- [x] issikirpti img ir juos panaudoti
    - panaudoti reliatyvu kelia
    - png formatas, del permatomumo
 - [ ] aprasyti stiliu
