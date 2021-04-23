@@ -3,7 +3,7 @@
 - [x] pradine failu struktura
    - index.html
    - .gitignore
-- [ ] atlikti dizano analize
+- [x] atlikti dizano analize
 - [x] surasyti html
 - [ ] issikirpti img ir juos panaudoti
    - panaudoti reliatyvu kelia
