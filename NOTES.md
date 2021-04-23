@@ -1,22 +1,22 @@
 # Procesas
 
 - [x] pradine failu struktura
-    - index.html
-    - .gitignore
+   - index.html
+   - .gitignore
 - [ ] atlikti dizano analize
-- [ ] surasyti html
+- [x] surasyti html
 - [ ] issikirpti img ir juos panaudoti
-    - panaudoti reliatyvu kelia
-    - png formatas, del permatomumo
+   - panaudoti reliatyvu kelia
+   - png formatas, del permatomumo
 - [ ] aprasyti stiliu
-    - turinys turi buti centre
-    - pagrindinis plotis turi buti fiksuotas
-    - stiliu (CSS) atskirti nuo HTML
+   - turinys turi buti centre
+   - pagrindinis plotis turi buti fiksuotas
+   - stiliu (CSS) atskirti nuo HTML
 - [ ] README.md 
-    - skirta aprasyti kas, ka ir kodel daro
-    - iterpti link i daroma dizaina
-    - iterpti link, kur galima pamatyti koda
-- [ ] paviesinti projekta per Github Pages (bus url)
+   - skirta aprasyti kas, ka ir kodel daro
+   - iterpti link i daroma dizaina
+   - iterpti link, kur galima pamatyti koda
+- [x] paviesinti projekta per Github Pages (bus url)
 
 #  Pasiskaitymui
 
