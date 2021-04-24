@@ -42,14 +42,12 @@ nav > a:last-of-type {
 }
 
 main {
-    display: inline-block;
     width: 800px;
     margin-top: 40px;
     margin-left: calc(50% - 400px); 
 }
 
 main > div {
-    display: inline-block;
     width: 30%;
     float: left;
     margin-top: 60px;
@@ -57,14 +55,12 @@ main > div {
 }
 
 main > img {
-    display: inline-block;
     width: 46%;
     float: right;
     margin-right: 2%;
 }
 
 h1 {
-    display: inline-block;
     width: 100%;
     line-height: 80px;
     font-size: 80px;
@@ -73,7 +69,6 @@ h1 {
 }
 
 p {
-    display: inline-block;
     width: 100%;
     margin: 0;
     font-size: 24px;
